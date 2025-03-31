@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gab-77
-- 👀 I’m interested in techs
-- 🌱 I’m currently learning affiliare marketing
+- 👋 Hi, I’m Gabriel 
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on wharsapp bot
-- 📫 How to reach me 0533399766
+- 📫 How to reach me +233533399766
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
